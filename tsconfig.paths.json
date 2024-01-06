@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@functions/*": ["ts-src/functions/*"],
+      "@libs/*": ["ts-src/libs/*"]
+    }
+  }
+}
